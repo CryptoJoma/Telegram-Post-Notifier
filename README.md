@@ -79,4 +79,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please contact [CryptoJoma](mailto:contact@cryptojoma.com).
+For any questions or support, please contact [CryptoJoma](mailto:coffee@joma.dev).
